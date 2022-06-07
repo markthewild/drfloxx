@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markthewild
 - 👀 I’m interested in being a fullstack web developer
-- 🌱 I’m currently learning html, bootstrap, js, node, php etc
+- 🌱 I’m currently learning html, bootstrap, js, node etc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
